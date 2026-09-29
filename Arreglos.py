@@ -40,3 +40,4 @@ print(frutas)
 arreglo=[]
 n = int(input("Ingrese el tamaño del arreglo: "))
 arreglo = [0] * n   
+
